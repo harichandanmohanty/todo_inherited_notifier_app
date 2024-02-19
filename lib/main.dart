@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:todo_inherited_notifier_app/screens/todo_listing_screen.dart';
 import 'package:todo_inherited_notifier_app/widgets/filter_drop_down.dart';
-import 'package:todo_inherited_notifier_app/widgets/todo_list_inherited_widget.dart';
+import 'package:todo_inherited_notifier_app/widgets/todo_list_inheritednotifier.dart';
 import 'app_state.dart';
 import 'screens/create_todo_screen.dart';
 

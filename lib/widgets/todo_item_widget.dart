@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:todo_inherited_notifier_app/app_state.dart';
 import 'package:todo_inherited_notifier_app/models/todo_item_model.dart';
 import 'package:todo_inherited_notifier_app/screens/todo_item_details_screen.dart';
-import 'package:todo_inherited_notifier_app/widgets/todo_list_inherited_widget.dart';
+import 'package:todo_inherited_notifier_app/widgets/todo_list_inheritednotifier.dart';
 
 class TodoItemWidget extends StatelessWidget {
   const TodoItemWidget({
